@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 0, 0, 0.502);
+}
+
+h1{
+    background-color: rgb(249, 137, 0);
+    color: aquamarine;
+    margin-right: 180px;
+    margin-left: 350px;
+    font-size: 40px;
+}
+stream{
+    background-color: black;
+    color: blue;
+    margin-left: 50px;
+}
